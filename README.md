@@ -76,7 +76,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 ---
 
-## 🚀 Projetos
+<!--## 🚀 Projetos
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
----
+--->
 
 ## 🎯 O que estou fazendo agora
 
@@ -140,17 +140,16 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 <div align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=dinizpauloz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=009C3B&text_color=C9D1D9&icon_color=FFDF00&ring_color=002776"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=dinizpauloz&show_icons=true&theme=transparent"
 />
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizpauloz&layout=compact&hide_border=true&bg_color=0D1117&title_color=009C3B&text_color=C9D1D9"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizpauloz&layout=compact&theme=transparent"
 />
 
 </div>
-
 ---
 
 ## 🔥 Sequência de contribuições
@@ -194,9 +193,10 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 <div align="center">
 
+
 <img
   src="https://raw.githubusercontent.com/dinizpauloz/dinizpauloz/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake contribution animation"
+  alt="Snake animation"
 />
 
 </div>
@@ -211,11 +211,11 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/paulo-diniz-santos-5527783a2/">
   <img src="https://img.shields.io/badge/LinkedIn-002776?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:diniz.santozz@gmail.com">
   <img src="https://img.shields.io/badge/Email-009C3B?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
