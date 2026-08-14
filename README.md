@@ -134,7 +134,6 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 > **Objetivo:** aprender através da prática e transformar conhecimento em projetos.
 
 ---
-
 ## 📊 GitHub
 
 <div align="center">
@@ -150,6 +149,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 />
 
 </div>
+
 ---
 
 ## 🔥 Sequência de contribuições
@@ -193,10 +193,9 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 <div align="center">
 
-
 <img
   src="https://raw.githubusercontent.com/dinizpauloz/dinizpauloz/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
+  alt="Snake contribution animation"
 />
 
 </div>
