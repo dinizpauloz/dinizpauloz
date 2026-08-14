@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Paulo Diniz
+#  Olá, eu sou Paulo Diniz
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=009C3B&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Software;Aprendendo+uma+linha+de+c%C3%B3digo+por+vez.;Construindo+projetos+e+adquirindo+experi%C3%AAncia."
@@ -21,7 +21,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+##  Sobre mim
 
 Sou **Paulo Diniz**, estudante de **Desenvolvimento de Software** e atualmente estou construindo minha base na programação através de estudos, exercícios e projetos práticos.
 
@@ -33,7 +33,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 ---
 
-## 💻 Tecnologias que estou estudando
+##  Tecnologias que estou estudando
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 ---
 
-## 🛠️ Ferramentas
+##  Ferramentas
 
 <div align="center">
 
@@ -118,22 +118,22 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 --->
 
-## 🎯 O que estou fazendo agora
+##  O que estou fazendo agora
 
 ```text
-📚 Estudando Desenvolvimento de Software
+ Estudando Desenvolvimento de Sistemas
 
-├── 🐍 Aprimorando Python
-├── 🌐 Praticando HTML, CSS e JavaScript
-├── ⚛️ Aprendendo React
-├── 💻 Estudando C# e C++
-├── 🔧 Melhorando meus conhecimentos em Git e GitHub
-└── 🚀 Desenvolvendo novos projetos
+├──  Aprimorando Python
+├──  Praticando HTML, CSS e JavaScript
+├──  Aprendendo React
+├──  Estudando C# e C++
+├──  Melhorando meus conhecimentos em Git e GitHub
+└──  Desenvolvendo novos projetos
 ```
 
 > **Objetivo:** aprender através da prática e transformar conhecimento em projetos.
 
----
+<!---
 ## 📊 GitHub
 
 <div align="center">
@@ -150,9 +150,9 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
----
+--->
 
-## 🔥 Sequência de contribuições
+##  Sequência de contribuições
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 ---
 
-## 📈 Atividade
+##  Atividade
 
 <div align="center">
 
@@ -175,7 +175,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
----
+<!---
 
 ## 🏆 Conquistas
 
@@ -187,9 +187,9 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
----
+--->
 
-## 🐍 Contribuições
+<!--## 🐍 Contribuições
 
 <div align="center">
 
@@ -200,9 +200,9 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
----
+--->
 
-## 🤝 Contato
+##  Contato
 
 <div align="center">
 
