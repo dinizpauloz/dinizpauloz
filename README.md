@@ -41,7 +41,8 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
-<br>
+
+<!-- abre o comentario <br>
 
 <div align="center">
 
@@ -54,11 +55,10 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 <img src="https://img.shields.io/badge/HTML5-Estudando-FFDF00?style=flat-square&logo=html5&logoColor=000000">
 <img src="https://img.shields.io/badge/CSS3-Estudando-002776?style=flat-square&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/React-Aprendendo-009C3B?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-Estudando-009C3B?style=flat-square&logo=react&logoColor=white">
 
-</div>
+</div> fecha o comentario -->
 
----
 
 ##  Ferramentas
 
@@ -68,15 +68,15 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VS%20Code-Editor-002776?style=flat-square&logo=visualstudiocode&logoColor=white">
+<!-- abre comentario <img src="https://img.shields.io/badge/VS%20Code-Editor-002776?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Git-Versionamento-009C3B?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white">
 
 </div>
 
----
 
-<!--## 🚀 Projetos
+
+## 🚀 Projetos
 
 <div align="center">
 
@@ -114,11 +114,10 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
   />
 </a>
 
-</div>
+</div> fecha comentario -->
 
---->
 
-##  O que estou fazendo agora
+<!--##  O que estou fazendo agora
 
 ```text
  Estudando Desenvolvimento de Sistemas
@@ -129,7 +128,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 ├──  Estudando C# e C++
 ├──  Melhorando meus conhecimentos em Git e GitHub
 └──  Desenvolvendo novos projetos
-```
+```-->
 
 > **Objetivo:** aprender através da prática e transformar conhecimento em projetos.
 
@@ -164,7 +163,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 ---
 
-##  Atividade
+<!--##  Atividade
 
 <div align="center">
 
@@ -175,7 +174,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
-<!---
+
 
 ## 🏆 Conquistas
 
@@ -187,9 +186,9 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
---->
 
-<!--## 🐍 Contribuições
+
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -200,7 +199,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 </div>
 
---->
+-->
 
 ##  Contato
 
@@ -234,7 +233,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos cada vez mais completo
 
 **Paulo Diniz**
 
-`Estudante de Desenvolvimento de Software`
+`Estudante de Desenvolvimento de Sistemas`
 
 <sub>Obrigado por visitar meu perfil 👋</sub>
 
